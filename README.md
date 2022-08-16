@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @yuan0-0jia
-- 👀 I’m interested in filming and photography.
-- 🌱 I’m currently learning Computer Architecture, Data Structures and Algorithms.
+- I’m currently studying Computer Engineering at UC Santa Cruz.
+- Some of the courses I've taken includes 
+    Software Engineering, Introduction to Data Structures and Algorithms, Introduction to Computer Networks.
+  I'm also interested in photography, and I'd walk around Santa Cruz with my camera when I'm free.
 
 
 <!---
