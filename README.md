@@ -2,7 +2,7 @@
 - I’m currently studying Computer Engineering at UC Santa Cruz.
 - Some of the courses I've taken include
     - Software Engineering Project, Introduction to Data Structures and Algorithms, Network Programming, Embedded System Design.
-- I'm also interested in photography, and I'd walk around Santa Cruz with my camera when I'm free.
+- When I'm free, I enjoy exploring Santa Cruz through my camera lens. You can often find me wandering around Santa Cruz with my Nikon F3.
 
 
 <!---
