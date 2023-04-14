@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuan
 - I’m currently studying Computer Engineering at UC Santa Cruz.
-- Some of the courses I've taken includes 
+- Some of the courses I've taken include
     - Software Engineering Project, Introduction to Data Structures and Algorithms, Network Programming, Embedded System Design.
 - I'm also interested in photography, and I'd walk around Santa Cruz with my camera when I'm free.
 
